@@ -6,6 +6,8 @@ Self-hosting is the practice of hosting and managing applications on your own se
 
 This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page.
 
+> **Security note:** Inclusion in this list is not a security audit, endorsement, maintenance guarantee or statement of production readiness. Before self-hosting a project, review its current release activity, vulnerability advisories, authentication, exposed ports, backups, data retention, licensing and threat model.
+
 **[HTML version](https://awesome-selfhosted.net/) (recommended)**, [Markdown version](https://github.com/awesome-selfhosted/awesome-selfhosted) (legacy).
 
 See [Contributing](#contributing).
