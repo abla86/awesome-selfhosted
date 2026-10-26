@@ -2361,3 +2361,8 @@ Contributing guidelines can be found [here](https://github.com/awesome-selfhoste
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
 The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
+
+
+## Disclaimer and verification
+
+This list is a discovery resource, not an endorsement or security audit of listed software. Project availability, maintenance status, licensing, security posture and deployment requirements can change. Verify the upstream project, license, release activity, vulnerabilities, backups and configuration before self-hosting; running software on your own infrastructure does not by itself guarantee privacy or security.
